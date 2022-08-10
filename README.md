@@ -20,9 +20,8 @@ Here are some ideas to get you started:
 ### How to reach me?
 
 <p align="center">
- <a href="https://charalambosioannou.github.io/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.instagram.com/alexandrecs_13/"> <img src="https://user-images.githubusercontent.com/57486325/183987497-0b95810e-316b-477f-96ab-4ab69bd8e996.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://www.linkedin.com/in/alexcortezsantos23/"> <img src="https://user-images.githubusercontent.com/57486325/183988702-e9308784-ed27-4de9-a50d-a31caea01699.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ### Language & Tools
@@ -30,7 +29,21 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/57486325/183990186-57fa0108-1cf8-4967-853a-ac80544f40fc.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/57486325/183991329-dcf55382-2940-47b7-aa09-52cf4b09a176.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/57486325/183991839-2200002e-71df-4250-8d60-8e7c3e175dbc.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/57486325/183995435-2ae87657-eb2c-41eb-ad9d-4bbd350a7fe7.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/57486325/183995659-b7bfd19b-9f13-418a-8f88-012ba4ccb988.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/57486325/183995961-bcf74296-d180-4cd6-80f7-c33db2cb98bf.png" alt="Colab" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/57486325/183996062-23c9690c-72cc-4e53-b915-a2b86901c5d5.png" alt="TensorFlow" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/57486325/183996542-20d39e0d-1b6c-4e55-8b10-cf43b5399c06.png" alt="Numpy" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/57486325/183998208-aef16f4a-e4c8-4c31-a31d-e6eb8ac76867.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://user-images.githubusercontent.com/57486325/183999434-e2880f9b-73e3-4303-9073-e0ef8d91ea36.png" alt="Seaborn" height="40" style="vertical-align:top; margin:4px">
+
 </p>
+
+
+
 
 ### Github Stats
 
