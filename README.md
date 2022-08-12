@@ -32,7 +32,7 @@ Here are some ideas to get you started:
  <img src="https://user-images.githubusercontent.com/57486325/183990186-57fa0108-1cf8-4967-853a-ac80544f40fc.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/57486325/183991329-dcf55382-2940-47b7-aa09-52cf4b09a176.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/57486325/183991839-2200002e-71df-4250-8d60-8e7c3e175dbc.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
- <img src="https://user-images.githubusercontent.com/57486325/183995435-2ae87657-eb2c-41eb-ad9d-4bbd350a7fe7.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://user-images.githubusercontent.com/57486325/184454178-28dea9b0-ada8-4418-b6dc-e6694030aa54.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/57486325/183995659-b7bfd19b-9f13-418a-8f88-012ba4ccb988.png" alt="Jupyter" height="40" style="vertical-align:top; margin:4px">
   <img src="https://user-images.githubusercontent.com/57486325/183995961-bcf74296-d180-4cd6-80f7-c33db2cb98bf.png" alt="Colab" height="40" style="vertical-align:top; margin:4px">
  <img src="https://user-images.githubusercontent.com/57486325/183996062-23c9690c-72cc-4e53-b915-a2b86901c5d5.png" alt="TensorFlow" height="40" style="vertical-align:top; margin:4px">
