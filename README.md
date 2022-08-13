@@ -17,11 +17,14 @@ Here are some ideas to get you started:
 
 ### About Me
 
-Student at DEI in Coimbra
+- 👨‍🔬 _Computer Scientist Researcher at CISUC_
+- 🐍 Love coding in Python
+- 💻 Linux FTW
+- 🏀 Basketball is life
 
-- Graduate of Computer Science pursuing a Data Science's Master Degree 
-- As a hobbie learning new tools like Firebase
-- Basketball is life
+### What i'm up to...
+- 🎓 Pursuing a Master's Degree on **Data Science and Engineering**
+- 🧠 Currently learning recommender systems
 
 ### Connect with me
 
