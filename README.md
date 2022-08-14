@@ -1,5 +1,5 @@
-## Hi there 👋
-![](https://komarev.com/ghpvc/?username=therealAlex23&color=blueviolet)
+# Hi, I'm Alex 👋
+
 <!--
 **therealAlex23/therealAlex23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p><img src="https://user-images.githubusercontent.com/57486325/184544186-61b52fab-1a69-4ab2-8f45-131a065d8a40.gif" align = "right" alt="MS" height="400" width = "420"></p>
 
 ### About Me
 
-- 👨‍🔬 _Computer Scientist Researcher at CISUC_
+- 👨‍🔬 _Computer Scientist Researcher at CISUC_   
 - 🐍 Love coding in Python
 - 💻 Linux FTW
 - 🏀 Basketball is life
+
 
 ### What i'm up to...
 - 🎓 Pursuing a Master's Degree on **Data Science and Engineering**
@@ -32,6 +34,8 @@ Here are some ideas to get you started:
  <a href="https://www.instagram.com/alexandrecs_13/"> <img src="https://user-images.githubusercontent.com/57486325/183987497-0b95810e-316b-477f-96ab-4ab69bd8e996.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="https://www.linkedin.com/in/alexcortezsantos23/"> <img src="https://user-images.githubusercontent.com/57486325/183988702-e9308784-ed27-4de9-a50d-a31caea01699.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
+
+<br> 
 
 ## My Skill Set 
 
@@ -84,8 +88,6 @@ Here are some ideas to get you started:
 
 </div>
 
-
-
 ### Github Stats
 
 ![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealalex23&theme=buefy&show_icons=true)
@@ -95,4 +97,4 @@ Here are some ideas to get you started:
 </a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=therealAlex23&theme=holi-theme)](https://git.io/streak-stats)
-
+![](https://komarev.com/ghpvc/?username=therealAlex23&color=blueviolet)
