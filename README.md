@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 <br> 
 
 ## My Skill Set 
+ 
+In case you don't know a certain tool/language, click on the icon to redirect you to its homepage
 
 ### Main programming languages
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -63,7 +65,7 @@ Here are some ideas to get you started:
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3js-original.svg" alt="D3.js" height="50" /></a> <a href="https://d3js.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/57486325/185159823-a7572f2c-fb54-4b4b-be92-86836e7ae1e9.png" alt="React.js" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -72,12 +74,11 @@ Here are some ideas to get you started:
 
 ### <div align="center">  Backend  </div>
 <div align="center">  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/57486325/185159507-1e1196e7-2970-4210-a2a5-c8ee953b00c7.png" alt="Flask" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/57486325/185158301-b2fe108a-8dc9-4018-9ad7-c8271e5b69ea.png" alt="PostgreSQL" height="50" /></a>  
 </div>
 
 </td></tr></table>  
-
 
 ### Support Tools
 
@@ -85,14 +86,15 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/57486325/185165814-e601a885-1d16-44fd-a5fb-818d55786b8c.png" alt="Figma" height="50" /></a>  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/57486325/185167492-c441ed4c-23f6-4414-9256-c20c1f9448ee.png" alt="Postman" height="50" /></a>  
 </div>
 
-### Github Stats
+<br> 
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=therealalex23&theme=buefy&show_icons=true)
-
+## Github Stats
 <a href="https://github.com/therealAlex23/therealAlex23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=therealalex23&theme=buefy&show_icons=true" />
+</a> <a href="https://github.com/therealAlex23/therealAlex23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealAlex23&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
