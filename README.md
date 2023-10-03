@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 ### About Me
 
-- 👨‍🔬 _Computer Scientist Researcher at CISUC_   
+- 👨‍🔬 _Computer Scientist Researcher at CISUC_ 
 - 🐍 Love coding in Python
-- 💻 Linux FTW
+- 💻 Linux/MacOS FTW
 - 🏀 Basketball is life
 
 
