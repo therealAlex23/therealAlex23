@@ -1,47 +1,33 @@
 # Hi, I'm Alex 👋
 
-<!--
-**therealAlex23/therealAlex23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p><img src="https://user-images.githubusercontent.com/57486325/184544186-61b52fab-1a69-4ab2-8f45-131a065d8a40.gif" align = "right" alt="MS" height="400" width = "420"></p>
 
 ### About Me
 
-- 👨‍🔬 _Computer Scientist Researcher at CISUC_ 
-- 🐍 Love coding in Python
-- 💻 Linux/MacOS FTW
-- 🏀 Basketball is life
+- 🐍 Python enthusiast
+- 💻 Linux & MacOS devotee. Windows? Only for games, and when my boss tells me to
+- 🏀 Retired basketball player (for now)
+- 🧠 Daily consumer of books and YouTube
+- 🎉 Believe in working hard, learning, sharing, and then partying even harder!
 
+### What I'm up to...
 
-### What i'm up to...
-- 🎓 Pursuing a Master's Degree on **Data Science and Engineering**
-- 🧠 Currently learning recommender systems
+- 🎓 Pursuing my Master's Degree in **Data Science and Engineering** at the University of Coimbra (just a few classes left!)
+- 🍎 Teaching pre-adolescent kids the joys of programming at SharkCoders, a coding school
+- 🤖 Studying AI to master and harness it for the greater good during my lifespan
 
 ### Connect with me
 
 <p align="left">
- <a href="https://www.instagram.com/alexandrecs_13/"> <img src="https://user-images.githubusercontent.com/57486325/183987497-0b95810e-316b-477f-96ab-4ab69bd8e996.png" alt="Instagram" height="40" style="vertical-align:top; margin:4px"></a>
+
  <a href="https://www.linkedin.com/in/alexcortezsantos23/"> <img src="https://user-images.githubusercontent.com/57486325/183988702-e9308784-ed27-4de9-a50d-a31caea01699.png" alt="Linkedin" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 <br> 
 
-## My Skill Set 
- 
-In case you don't know a certain tool/language, click on the icon to redirect you to its homepage
+## Tech Stack
 
-### Main programming languages
+### Languages
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  <a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 
 <table><tr><td valign="top" width="33%">
@@ -52,8 +38,6 @@ In case you don't know a certain tool/language, click on the icon to redirect yo
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
- <a href="https://jupyter.org" target="_blank"><img src="https://user-images.githubusercontent.com/57486325/184455501-83b7f5a6-c53a-4238-8ea7-1a3b700dd769.jpg" alt="Jupyter" height="40" style="vertical-align:top; margin:4px"></a>  
- <a href="https://colab.research.google.com/?utm_source=scs-index" target="_blank">  <img src="https://user-images.githubusercontent.com/57486325/183995961-bcf74296-d180-4cd6-80f7-c33db2cb98bf.png" alt="Colab" height="40" style="vertical-align:top; margin:4px"></a>  
  <a href="https://numpy.org" target="_blank">  <img src="https://user-images.githubusercontent.com/57486325/183996542-20d39e0d-1b6c-4e55-8b10-cf43b5399c06.png" alt="Numpy" height="40" style="vertical-align:top; margin:4px"></a>  
 </div>
 
@@ -87,6 +71,8 @@ In case you don't know a certain tool/language, click on the icon to redirect yo
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/57486325/185165814-e601a885-1d16-44fd-a5fb-818d55786b8c.png" alt="Figma" height="50" /></a>  <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/57486325/185167492-c441ed4c-23f6-4414-9256-c20c1f9448ee.png" alt="Postman" height="50" /></a>  
+  <a href="https://jupyter.org" target="_blank"><img src="https://user-images.githubusercontent.com/57486325/184455501-83b7f5a6-c53a-4238-8ea7-1a3b700dd769.jpg" alt="Jupyter" height="40" style="vertical-align:top; margin:4px"></a>  
+ <a href="https://colab.research.google.com/?utm_source=scs-index" target="_blank">  <img src="https://user-images.githubusercontent.com/57486325/183995961-bcf74296-d180-4cd6-80f7-c33db2cb98bf.png" alt="Colab" height="40" style="vertical-align:top; margin:4px"></a>  
 </div>
 
 <br> 
