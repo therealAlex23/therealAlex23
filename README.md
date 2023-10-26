@@ -4,20 +4,12 @@
 
 ### About Me
 
+- 🎓 Graduate in Computer Science and finishing a Master's Degree in **Data Science and Engineering**
+- 👩‍🏫 Teaching pre-adolescent kids the basics of app development and Python fundamentals
+- 🔍 Searching for a full-time experience to solve complex problems, drive innovation, and make a meaningful impact while growing my tech expertise
 - 🐍 Python proficient
-- 💻 Linux & MacOS devotee. Windows? Only for games, and when my boss tells me to
-- 🏀 Retired basketball player (for now)
-- 🧠 Daily consumer of books and YouTube for knowledge acquisition
-- 🎉 Believe in working hard and then partying even harder!
-
-### What I'm up to...
-
-- 🎓 Pursuing my Master's Degree in **Data Science and Engineering** at the University of Coimbra (just 3 classes left!)
-- 🍎 Teaching pre-adolescent kids the joys of programming at SharkCoders, a coding school
-- 🤖 Researching and experimenting with cutting-edge tools AI to master and harness it for the greater good
-
-### My next step...
-- Searching for a full-time experience to grow my data science and software engineering expertise
+- 🤖 Keeping up daily with the industry through articles, YouTube, and coding side projects
+- 🧗‍♂️🎮 Climbing or gaming when I'm not being a nerd
 
 ### Connect with me
 
