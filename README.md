@@ -1,6 +1,10 @@
 # Hi, I'm Alex 👋
 
-<p><img src="https://user-images.githubusercontent.com/57486325/184544186-61b52fab-1a69-4ab2-8f45-131a065d8a40.gif" align = "right" alt="MS" height="400" width = "420"></p>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/57486325/184544186-61b52fab-1a69-4ab2-8f45-131a065d8a40.gif" align = "right" alt="MS" height="400" width = "420">
+</p>
+
+<br/>
 
 ### About Me
 
@@ -10,6 +14,10 @@
 - 🐍 Python proficient
 - 🤖 Keeping up daily with the industry through articles, YouTube, and coding side projects
 - 🧗‍♂️🎮 Climbing or gaming when I'm not being a nerd
+
+<br/>
+
+
 
 ### Connect with me
 
